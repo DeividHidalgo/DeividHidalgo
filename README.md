@@ -23,6 +23,10 @@ Meu diferencial é o que chamo de **"pro-code dentro do low-code"**: toda automa
 
 ## 🚀 Projetos em destaque
 
+### [🤖 atendente-whatsapp-ia](https://github.com/DeividHidalgo/atendente-whatsapp-ia)
+**Atendente de IA no WhatsApp** usado na minha empresa, a [AlphaTech](https://alphatech-site.netlify.app): tira dúvidas dos clientes, oferece horários livres reais e agenda a reunião no Google Agenda com link do Meet. Remarca e cancela, passa para um humano quando precisa e reconhece quando quem respondeu foi o robô de outra empresa. Node.js sem nenhuma dependência e com testes automáticos.
+`Node.js` `Claude API` `WhatsApp Cloud API (Meta)` `Google Calendar` `Railway`
+
 ### [🔐 security-triage-agent](https://github.com/DeividHidalgo/security-triage-agent)
 Agente de **triagem de vulnerabilidades**: varre um repositório atrás de dependências vulneráveis (OSV.dev) e segredos expostos, prioriza o que é crítico, abre issues no GitHub e manda um resumo executivo no Slack. Um script separado audita se o agente acertou.
 `Python` `Claude Code` `GitHub API` `OSV.dev` `SQLite` `Slack` `GitHub Actions`
